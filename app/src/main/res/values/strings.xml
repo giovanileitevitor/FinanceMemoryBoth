@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Finance App</string>
+    <string name="hint_text">type your text here…</string>
+    <string name="done">done</string>
+    <string name="welcome">welcome</string>
+</resources>
